@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davis\\Desktop\\bucles semana5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1F5467-1801-4378-9FD7-6ED2634A71B6}|bucles semana5\\bucles semana5.vbproj|c:\\users\\davis\\desktop\\bucles semana5\\bucles semana5\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E1F5467-1801-4378-9FD7-6ED2634A71B6}|bucles semana5\\bucles semana5.vbproj|solutionrelative:bucles semana5\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1F5467-1801-4378-9FD7-6ED2634A71B6}|bucles semana5\\bucles semana5.vbproj|c:\\users\\davis\\desktop\\bucles semana5\\bucles semana5\\ejemplosbucles.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2E1F5467-1801-4378-9FD7-6ED2634A71B6}|bucles semana5\\bucles semana5.vbproj|solutionrelative:bucles semana5\\ejemplosbucles.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejemplosbucles.vb",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\bucles semana5\\bucles semana5\\Ejemplosbucles.vb",
+              "RelativeDocumentMoniker": "bucles semana5\\Ejemplosbucles.vb",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\bucles semana5\\bucles semana5\\Ejemplosbucles.vb*",
+              "RelativeToolTip": "bucles semana5\\Ejemplosbucles.vb*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAlwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T19:10:36.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\Davis\\Desktop\\bucles semana5\\bucles semana5\\Program.vb",
+              "RelativeDocumentMoniker": "bucles semana5\\Program.vb",
+              "ToolTip": "C:\\Users\\Davis\\Desktop\\bucles semana5\\bucles semana5\\Program.vb*",
+              "RelativeToolTip": "bucles semana5\\Program.vb*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-13T19:09:00.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
