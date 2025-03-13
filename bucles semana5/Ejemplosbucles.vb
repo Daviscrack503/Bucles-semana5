@@ -13,6 +13,8 @@
 
         For Each elemento In miArray
             Debug.Print("Valor: " & elemento)
+
+            Console.WriteLine(elemento)
         Next
 
     End Function
@@ -23,6 +25,7 @@
         Do While x <= 5
             Debug.Print("Valor de x: " & x)
             x = x + 1
+            Console.WriteLine(x)
         Loop
 
 
@@ -35,6 +38,8 @@
         Do Until y > 5
             Debug.Print("Valor de y: " & y)
             y = y + 1
+
+            Console.WriteLine(y)
         Loop
 
 
@@ -46,7 +51,10 @@
         Do
             Debug.Print("Valor de z: " & z)
             z = z + 1
+
+
         Loop While z <= 5
+        Console.WriteLine(z)
     End Function
 
     Public Function DoLoopUnitl()
@@ -55,7 +63,9 @@
         Do
             Debug.Print("Valor de w: " & w)
             w = w + 1
+
         Loop Until w > 5
+        Console.WriteLine(w)
     End Function
 
 End Class

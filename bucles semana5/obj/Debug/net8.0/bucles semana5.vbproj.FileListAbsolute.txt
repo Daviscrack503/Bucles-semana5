@@ -12,3 +12,4 @@ C:\Users\Davis\Desktop\bucles semana5\bucles semana5\obj\Debug\net8.0\refint\buc
 C:\Users\Davis\Desktop\bucles semana5\bucles semana5\obj\Debug\net8.0\bucles semana5.pdb
 C:\Users\Davis\Desktop\bucles semana5\bucles semana5\obj\Debug\net8.0\bucles semana5.genruntimeconfig.cache
 C:\Users\Davis\Desktop\bucles semana5\bucles semana5\obj\Debug\net8.0\ref\bucles semana5.dll
+C:\Users\Davis\Desktop\bucles semana5\bucles semana5\obj\Debug\net8.0\bucles semana5.sourcelink.json

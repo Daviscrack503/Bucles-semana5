@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("bucles semana5"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f28cf6ce0f36c4274d913e2265d6b58fddc0fde0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("bucles semana5"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("bucles semana5"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
